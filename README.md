@@ -1,6 +1,7 @@
-### Hi 👋
-[![seunmul's github stats](https://github-readme-stats.vercel.app/api?username=seunmul)](https://github.com/seunmul/github-readme-stats)
-
+# Hi 👋
+## This is Seunmul. GeonhaPark<geonhab504@gmail.com>
+[![seunmul's github stats](https://github-readme-stats.vercel.app/api?username=seunmul&count_private=true&show_icons=true)](https://github.com/seunmul/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunmul)](https://github.com/seunmul/github-readme-stats)
 <!--
 **Seunmul/Seunmul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
