@@ -6,7 +6,7 @@
 ### Interests
 - Linux (Especially ARM), Realtime OS, Embedded System.
 - Container-based virtualization(Docker, K8s, etc.)
-- Tiny ML, Edge AI
+- Tiny ML, Edge AI, On-device AI
 - AI Model Compiler: Reducing Memory bandwidth cost and calculation overheads (with kernel-level ops, IR optimization, hardware-aware model design) 
 - Automotive Platform SW (Especially, Autosar Classic and Adaptive platform)
 
@@ -16,7 +16,7 @@ I'm currently a graduate student deepening my knowledge in Linux, particularly E
 
 In particular, I'm focusing on the challenges posed by the shift from distributed systems to centralized computing architectures in the automotive domains — especially SDVs.   
 
-Additionally, I'm exploring effective ways to integrate automotive systems with Tiny AI models — to ensure safety, power efficiency, and memory efficiency.
+Additionally, I'm exploring effective ways to integrate automotive systems with Tiny ML models or On-device AI models — to ensure safety, power efficiency, and memory efficiency.
 
 If these topics capture your interest, I would appreciate hearing about your experiences. 
 
