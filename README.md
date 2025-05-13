@@ -5,7 +5,7 @@
 
 ### Interests
 - Linux (Especially ARM), Realtime OS, Embedded System.
-- Container-based virtualization(Docker, K8s, etc.)
+- Container-based virtualization (Docker, K8s, etc.)
 - Tiny ML, Edge AI, On-device AI
 - AI Model Compiler: Reducing Memory bandwidth cost and calculation overheads (with kernel-level ops, IR optimization, hardware-aware model design) 
 - Automotive Platform SW (Especially, Autosar Classic and Adaptive platform)
