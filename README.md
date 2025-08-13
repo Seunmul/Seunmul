@@ -6,7 +6,8 @@
 - Linux (Especially ARM), Realtime OS, Embedded System.
 - Container-based virtualization (Docker, K8s, etc.)
 - Automotive Platform SW
-- AI Runtime & serving system: LiteRT, vLLM, llama.cpp, etc.
+- Serving framework: vLLM, llama.cpp, etc.
+- AI Runtime and Low-level Backends : LiteRT, Qualcomm QNN, XNNPACK, etc.
 - AI Compiler: Hardware-aware model design methodology, Graph-level optimization, Ops Kernel-level optimization
 
 
