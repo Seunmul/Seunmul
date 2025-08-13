@@ -5,9 +5,10 @@
 ### Interests
 - Linux (Especially ARM), Realtime OS, Embedded System.
 - Container-based virtualization (Docker, K8s, etc.)
-- Tiny ML, Edge AI, On-device AI
+- Automotive Platform SW
+- AI Runtime: LiteRT, llama.cpp, etc.
 - AI Model Compiler: Reducing Memory bandwidth cost and calculation overheads (with kernel-level ops, IR optimization, hardware-aware model design) 
-- Automotive Platform SW (Especially, Autosar Classic and Adaptive platform)
+
 
 Thank you for visiting my GitHub.   
    
