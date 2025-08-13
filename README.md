@@ -7,7 +7,7 @@
 - Container-based virtualization (Docker, K8s, etc.)
 - Automotive Platform SW
 - AI Runtime & serving system: LiteRT, vLLM, llama.cpp, etc.
-- AI Model Compiler: Reducing Memory bandwidth cost and calculation overheads (with kernel-level ops, IR optimization, hardware-aware model design) 
+- AI Compiler: Hardware-aware model design methodology, Graph-level optimization, Ops Kernel-level optimization
 
 
 Thank you for visiting my GitHub.   
