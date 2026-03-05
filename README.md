@@ -15,7 +15,7 @@ Thank you for visiting my GitHub.
 
 I’m currently working on **Hyundai Motor Company**, as a **Research Engineer** at AVP division
 
-My role is developing automotive platform software (a.k.a BSW layer in **AUTOSAR classic** platform), for **HMG(Hyundai Motor Group)'s production-level vehicles**.  
+My role is developing automotive platform software (a.k.a BSW layer in **AUTOSAR classic** platform), for **HMG (Hyundai Motor Group)'s production-level vehicles**.  
    
 Also, I'm a engineer deepening my knowledge in Linux, particularly **Embedded Linux** for automotive platforms, and **On-Device AI**.
 
